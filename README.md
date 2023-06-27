@@ -26,8 +26,9 @@ and password after```-p```
 
 This will start the tool. Every 4 minutes 20 unfollows.
 
-If it encounter an error with instagram
-it may say```challange_required```or```login_required.``` This means instagram blocked the attempt to login. To fix this, login to instagram on your phone and follow the instructions on the screen.
+If the code encounters an error with instagram,
+it may throw```challange_required```or
+```login_required```errors. This means instagram blocked the attempt to login. To fix this, login to instagram on your phone and follow the instructions on the screen.
 
-It may randomly log you out from your account. Just simply log back in.
+Instagram may randomly log you out from your account. Just simply log back in.
 ### Dont over do it. You may lose your account!
