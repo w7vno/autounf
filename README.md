@@ -18,10 +18,8 @@ chmod +x install.sh
 
 This will add```unfollow```executable to your directory. Simply run it like shown.
 ## Usage example
-Enter your username after```-u``` 
-and password after```-p``` 
 ```bash
-./unfollow -u username -p password
+./unfollow -u <username> -p <password>
 ```
 
 This will start the tool. Every 4 minutes 20 unfollows.
